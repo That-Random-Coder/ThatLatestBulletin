@@ -43,4 +43,3 @@ A minimal top-loader bar appears during fetch operations to provide clear visual
 ## Project Goals
 
 ThatLatestBulletin is built to create a news interface that feels dynamic without compromising clarity. Motion is used intentionally to guide attention and improve usability. The application emphasizes speed, fluidity, and a smooth reading experience rather than heavy visual effects.
-
