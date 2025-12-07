@@ -1,5 +1,7 @@
 # ThatLatestBulletin
 
+### Test it out at :- https://that-latest-bulletin.netlify.app
+
 ThatLatestBulletin is a modern news exploration experience built with React and Vite. It focuses on speed, smooth interaction, and clean readability while delivering a uniquely animated interface powered by Lenis scrolling and GSAP/AnimeJS motion. The platform aims to make browsing global headlines feel fluid, responsive, and visually engaging across devices.
 
 ## Overview
